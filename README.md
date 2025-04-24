@@ -27,12 +27,7 @@ Hello! I'm Anthony, a developer who creates user-friendly web applications and i
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" />
 
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anth0nycodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anth0nycodes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anth0nycodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=devv-sam&icon=0&color=0)](https://visitcount.itsvg.in)

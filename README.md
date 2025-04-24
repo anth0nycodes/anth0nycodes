@@ -1,12 +1,11 @@
 # Hi, I'm Anthony 👋
 
-`Software Engineer Intern`
+`Software Engineer Intern @ Magic Hour (YC W24)`
 
-Hello! I'm Anthony, a Software Engineer Intern who creates user-friendly web applications and interactive interfaces. I focus on clean code and responsive design while exploring new technologies. Feel free to check out my repositories to see my projects, and reach out if you'd like to collaborate or have any questions.
+Hello! I'm Anthony, a developer who creates user-friendly web applications and interactive interfaces. I focus on clean code and responsive design while exploring new technologies. Feel free to check out my repositories to see my projects, and reach out if you'd like to collaborate or have any questions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hoang22/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.anthonyhoang.dev/)
-
 
 ## Here are the technologies, languages, frameworks, and tools I've worked with:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
@@ -27,3 +26,11 @@ Hello! I'm Anthony, a Software Engineer Intern who creates user-friendly web app
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" />
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anth0nycodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anth0nycodes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anth0nycodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=devv-sam&icon=0&color=0)](https://visitcount.itsvg.in)

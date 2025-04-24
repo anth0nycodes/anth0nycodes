@@ -8,7 +8,7 @@ Hello! I'm Anthony, a developer who creates user-friendly web applications and i
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.anthonyhoang.dev/)
 
 ## 🔨 Here are the technologies, languages, frameworks, and tools I've worked with:
-<div>
+<div style='display: flex; gap: 6px;'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30px" style="padding-left: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" style="padding-left: 5px;" />
@@ -28,7 +28,6 @@ Hello! I'm Anthony, a developer who creates user-friendly web applications and i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" style="padding-left: 5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="30px" style="padding-left: 5px;" />
 </div>
-
 
 ## 📊 GitHub Stats
 

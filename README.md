@@ -31,5 +31,5 @@ Hello! I'm Anthony, a developer who creates user-friendly web applications and i
 
 ## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=anth0nycodes&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=anth0nycodes&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anth0nycodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

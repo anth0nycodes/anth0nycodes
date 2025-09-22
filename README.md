@@ -19,9 +19,7 @@ Hello! I'm Anthony, a developer who creates user-friendly web applications and i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px" style="padding-left: 5px;" />
   <img src="https://files.svgcdn.io/logos/zod.png" width="30px" style="padding-left: 5px;" />
   <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" width="30px" style="padding-left: 5px;" />
-  <img src="https://cdn.sanity.io/images/o0o2tn5x/production/2399b991025c365aafaa6fca85d91deac801e654-1046x1046.png" width="30px" style="padding-left: 5px;" />
   <img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" width="30px" style="padding-left: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="30px" style="padding-left: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30px" style="padding-left: 5px;" />
   <img src="https://neon.tech/brand/neon-logomark-light-color.svg" width="30px" style="padding-left: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="padding-left: 5px;" />

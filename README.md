@@ -1,6 +1,6 @@
 # Hi, I'm Anthony 👋
 
-`Software Engineer Intern @ Magic Hour (YC W24)`
+`Software Engineer`
 
 Hello! I'm Anthony, a developer who creates user-friendly web applications and interactive interfaces. I focus on clean code and responsive design while exploring new technologies. Feel free to check out my repositories to see my projects, and reach out if you'd like to collaborate or have any questions.
 

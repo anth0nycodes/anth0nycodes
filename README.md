@@ -2,7 +2,7 @@
 
 `Co-Founder @ Performant`
 
-Hello! I'm Anthony, a developer who creates user-friendly web applications and interactive interfaces. I focus on clean code and responsive design while exploring new technologies. Feel free to check out my repositories to see my projects, and reach out if you'd like to collaborate or have any questions.
+hey there :) thanks for stopping by!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hoang22/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.anthonyhoang.dev/)

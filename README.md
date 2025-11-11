@@ -1,6 +1,6 @@
 # Hi, I'm Anthony 👋
 
-`Co-Founder @ Performant`
+`Building cool stuff`
 
 hey there :) thanks for stopping by!
 

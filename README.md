@@ -1,19 +1,19 @@
-## Hi, I'm Anthony 👋
+# Hi, I'm Anthony 👋
 
 `Building cool stuff :)`
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 Hey there, thanks for visiting my profile! My name is Anthony and I'm a full-stack engineer that likes tinkering with random things for fun! I love the idea of learning and beyond coding, I try to consistently go to the gym.
 
-### 🌱 What I'm Currently Up To
+## 🌱 What I'm Currently Up To
 
 - **Contributing to Open Source** - Learning the ins and outs of collaborative development and giving back to the community
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hoang22/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.anthonyhoang.dev/)
 
-### 🔨 Technologies & Tools I've Worked With
+## 🔨 Technologies & Tools I've Worked With
 
 <div style='display: flex; gap: 6px;'>
   <!-- HTML -->

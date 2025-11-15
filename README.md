@@ -13,7 +13,7 @@ Hey there, thanks for visiting my profile! My name is Anthony and I'm a full-sta
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hoang22/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.anthonyhoang.dev/)
 
-### 🔨 Technologies & Tools
+### 🔨 Technologies & Tools I've Worked With
 
 <div style='display: flex; gap: 6px;'>
   <!-- HTML -->

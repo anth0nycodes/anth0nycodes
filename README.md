@@ -1,13 +1,20 @@
-# Hi, I'm Anthony 👋
+## Hi, I'm Anthony 👋
 
-`Building cool stuff`
+`Building cool stuff :)`
 
-hey there :) thanks for stopping by!
+### 👨‍💻 About Me
+
+Hey there, thanks for visiting my profile! My name is Anthony and I'm a full-stack engineer that likes tinkering with random things for fun! I love the idea of learning and beyond coding, I try to consistently go to the gym.
+
+### 🌱 What I'm Currently Up To
+
+- **Contributing to Open Source** - Learning the ins and outs of collaborative development and giving back to the community
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hoang22/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.anthonyhoang.dev/)
 
-## 🔨 Here are the technologies, languages, frameworks, and tools I've worked with:
+### 🔨 Technologies & Tools
+
 <div style='display: flex; gap: 6px;'>
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" />
@@ -53,7 +60,8 @@ hey there :) thanks for stopping by!
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="30px" style="padding-left: 5px;" />
 </div>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=anth0nycodes&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anth0nycodes&theme=dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anth0nycodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

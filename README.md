@@ -8,7 +8,7 @@ Hey there, thanks for visiting my profile! My name is Anthony and I'm a full-sta
 
 ## 🌱 What I'm Currently Up To
 
-- **Contributing to Open Source** - Learning the ins and outs of collaborative development and giving back to the community
+- **Contributing to Open Source** — Currently helping maintain [Observatory](https://github.com/The-Context-Company/observatory). Still early in my open-source journey, learning best practices and gradually taking on more responsibility.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hoang22/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.anthonyhoang.dev/)

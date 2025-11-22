@@ -18,7 +18,7 @@
 
 ## 🎯 What I'm Currently Up To
 
-Contributing to **[Observatory](https://github.com/The-Context-Company/observatory)** — learning open source best practices and taking on increasing responsibility in the project.
+Contributing to **[Observatory](https://github.com/The-Context-Company/observatory)** and **[TypeScript OOP Guide](https://github.com/ah-materials/typescript-oop-guide)** — learning open source best practices and taking on increasing responsibility in the project.
 
 ## 🔨 Technologies & Tools I've Worked With
 

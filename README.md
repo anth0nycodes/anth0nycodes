@@ -18,7 +18,8 @@
 
 ## 🎯 What I'm Currently Up To
 
-Contributing to **[Observatory](https://github.com/The-Context-Company/observatory)** and **[TypeScript OOP Guide](https://github.com/ah-materials/typescript-oop-guide)** — learning open source best practices and taking on increasing responsibility in the project.
+- Contributing to **[Observatory](https://github.com/The-Context-Company/observatory)** and maintaining my own **[TypeScript OOP Guide](https://github.com/ah-materials/typescript-oop-guide)**, expanding my open-source skills and responsibilities.
+- Learning more about observability, primarily [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/)
 
 ## 🔨 Technologies & Tools I've Worked With
 
@@ -41,10 +42,6 @@ Contributing to **[Observatory](https://github.com/The-Context-Company/observato
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" style="padding-left: 5px;" />
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="padding-left: 5px;" />
-  <!-- React Native -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="30px" style="padding-left: 5px;" />
-  <!-- Expo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="30px" style="padding-left: 5px;" />
   <!-- Tailwind CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px" style="padding-left: 5px;" />
   <!-- Zod -->

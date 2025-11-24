@@ -9,7 +9,7 @@
               |___/                                                              |___/                                               
 ```
 
-**`Full-Stack Engineer`** • **`Open Source Contributor`** • **`Fitness Enthusiast`**
+**`Full-Stack Engineer`** • **`Open Source Contributor`** • **`Average Gym Goer`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_anthonyhoang.dev-FF5722?style=for-the-badge)](http://www.anthonyhoang.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthony-hoang22/)

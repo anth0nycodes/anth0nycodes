@@ -18,6 +18,7 @@
 
 ## 🎯 What I'm Currently Up To
 
+- Learning Python by building **[Rude Assistant](https://github.com/anth0nycodes/rude-assistant)**
 - Contributing to **[Observatory](https://github.com/The-Context-Company/observatory)** and maintaining my own **[TypeScript OOP Guide](https://github.com/ah-materials/typescript-oop-guide)**, expanding my open-source skills and responsibilities.
 - Learning more about observability, primarily [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/)
 

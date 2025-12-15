@@ -9,7 +9,7 @@
               |___/                                                              |___/                                               
 ```
 
-**`Full-Stack Engineer`** • **`Open Source Contributor`** • **`Average Gym Goer`**
+**`Full-Stack Engineer`** • **`Design Engineer`** • **`Average Gym Goer`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_anthonyhoang.dev-FF5722?style=for-the-badge)](http://www.anthonyhoang.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anth0nycodes/)
@@ -18,7 +18,7 @@
 
 ## 🎯 What I'm Currently Up To
 
-- Learning Python
+- Learning Python & System Design
 - Contributing to **[Observatory](https://github.com/The-Context-Company/observatory)** and maintaining my own **[TypeScript OOP Guide](https://github.com/ah-materials/typescript-oop-guide)**, expanding my open-source skills and responsibilities.
 - Learning more about observability, primarily [OpenTelemetry](https://opentelemetry.io/docs/what-is-opentelemetry/)
 
@@ -66,19 +66,6 @@
   <!-- Vite -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="30px" style="padding-left: 5px;" />
 </div>
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-olive-two-14.vercel.app/api?username=anth0nycodes&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=merko" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=anth0nycodes&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
 
 ---
 

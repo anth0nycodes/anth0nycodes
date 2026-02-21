@@ -1,4 +1,4 @@
-## 👋 hey, i'm anthony
+# 👋 hey, i'm anthony
 
 **`Design Engineer`** • **`Average Gym Goer`**
 

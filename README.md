@@ -1,20 +1,13 @@
-```
-  _    _                _____ _                            _   _                       
- | |  | |              |_   _( )               /\         | | | |                      
- | |__| | ___ _   _      | | |/ _ __ ___      /  \   _ __ | |_| |__   ___  _ __  _   _ 
- |  __  |/ _ \ | | |     | |   | '_ ` _ \    / /\ \ | '_ \| __| '_ \ / _ \| '_ \| | | |
- | |  | |  __/ |_| |_   _| |_  | | | | | |  / ____ \| | | | |_| | | | (_) | | | | |_| |
- |_|  |_|\___|\__, ( ) |_____| |_| |_| |_| /_/    \_\_| |_|\__|_| |_|\___/|_| |_|\__, |
-               __/ |/                                                             __/ |
-              |___/                                                              |___/                                               
-```
+## 👋 hey, i'm anthony
 
 **`Design Engineer`** • **`Average Gym Goer`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_anthonyhoang.dev-FF5722?style=for-the-badge)](http://www.anthonyhoang.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anth0nycodes/)
 
----
+## 🚀 What I'm Doing
+
+- Building [Tracemark](https://github.com/anth0nycodes/tracemark) and [Fabric History](https://github.com/anth0nycodes/fabric-history)
 
 ## 🔨 Technologies & Tools I've Worked With
 
@@ -44,9 +37,3 @@
   <!-- Vite -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="30px" style="padding-left: 5px;" />
 </div>
-
----
-
-<p align="center">
-  <i>Building cool stuff, one line of code at a time</i> 🚀
-</p>

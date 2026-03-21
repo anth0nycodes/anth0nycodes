@@ -1,13 +1,13 @@
 # 👋 hey, i'm anthony
 
-**`Design Engineer`** • **`Average Gym Goer`**
+**`Fullstack Engineer`** • **`Average Gym Goer`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_anthonyhoang.dev-FF5722?style=for-the-badge)](http://www.anthonyhoang.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anth0nycodes/)
 
 ## 🚀 What I'm Doing
 
-- Building [Tracemark](https://github.com/anth0nycodes/tracemark) and [Fabric History](https://github.com/anth0nycodes/fabric-history)
+- Building @ [Deep24](https://www.ycombinator.com/companies/deep24)
 
 ## 🔨 Technologies & Tools I've Worked With
 
@@ -26,10 +26,14 @@
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="30px" style="padding-left: 5px;" />
    <!-- tRPC -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" width="30px" style="padding-left: 5px;" />
+   <!-- Supabase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="30px" style="padding-left: 5px;" />
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px" style="padding-left: 5px;" />
   <!-- Drizzle ORM -->
   <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" width="30px" style="padding-left: 5px;" />
+   <!-- Prisma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="30px" style="padding-left: 5px;" />
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="padding-left: 5px;" />
   <!-- Figma -->

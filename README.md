@@ -7,7 +7,7 @@
 
 ## 🚀 What I'm Doing
 
-- Building @ [Deep24](https://www.ycombinator.com/companies/deep24)
+- Building Noetic
 
 ## 🔨 Technologies & Tools I've Worked With
 

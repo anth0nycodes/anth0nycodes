@@ -7,7 +7,7 @@
 
 ## 🚀 What I'm Doing
 
-- Building Noetic
+- Building Games on Roblox
 
 ## 🔨 Technologies & Tools I've Worked With
 

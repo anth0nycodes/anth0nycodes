@@ -21,9 +21,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30px" />
 
-  <!-- Rojo -->
-  <img src="https://github.com/user-attachments/assets/ee54cabb-8424-4652-bc89-7a3f2c87c02d" width="30px" height="30px" />
-
   <!-- Blender -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="30px" />
 

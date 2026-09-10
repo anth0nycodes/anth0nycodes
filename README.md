@@ -1,6 +1,6 @@
 # 👋 hey, i'm anthony
 
-**`Fullstack Engineer`**
+**`Design Engineer`**
 
 [![Portfolio](https://img.shields.io/badge/🌐_anthonyhoang.dev-FF5722?style=for-the-badge)](http://www.anthonyhoang.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anth0nycodes/)

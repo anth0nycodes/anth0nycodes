@@ -1,35 +1,24 @@
+
 # 👋 hey, i'm anthony
 
-**`Design Engineer`**
+`Product Designer`
 
-[![Portfolio](https://img.shields.io/badge/🌐_anthonyhoang.dev-FF5722?style=for-the-badge)](http://www.anthonyhoang.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anth0nycodes/)
+I enjoy designing things that look and feel great.
 
-## 🔨 Technologies & Tools I've Worked With
+[![Portfolio](https://img.shields.io/badge/Portfolio-anthonyhoang.dev-FF5722?style=for-the-badge)](https://www.anthonyhoang.dev/)
+[![X](https://img.shields.io/badge/X-@anth0nycodes-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anth0nycodes)
 
-<div style='display: flex; gap: 6px;'>
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" style="padding-left: 5px;" />
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" style="padding-left: 5px;" />
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px" style="padding-left: 5px;" />
-  <!-- Motion -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPznwv7OeqDgGjrlZfT28XyX4J9oJyZ9TYwg&s" width="30px" style="padding-left: 5px;" />
-  <!-- Express -->
-  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" width="30px" style="padding-left: 5px;" />
-  <!-- Node.js -->
-  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="30px" style="padding-left: 5px;" />
-   <!-- tRPC -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" width="30px" style="padding-left: 5px;" />
-   <!-- Supabase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="30px" style="padding-left: 5px;" />
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px" style="padding-left: 5px;" />
-   <!-- Prisma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="30px" style="padding-left: 5px;" />
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="padding-left: 5px;" />
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" style="padding-left: 5px;" />
-</div>
+## 🛠️ Tools
+
+**Design**
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+**AI & Development**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-FFFFFF?style=for-the-badge&logo=framer&logoColor=black)
